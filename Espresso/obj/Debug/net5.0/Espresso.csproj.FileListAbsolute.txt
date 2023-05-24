@@ -1,0 +1,5 @@
+C:\Users\vaibh\source\repos\Espresso\Espresso\obj\Debug\net5.0\Espresso.csproj.AssemblyReference.cache
+C:\Users\vaibh\source\repos\Espresso\Espresso\obj\Debug\net5.0\Espresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\source\repos\Espresso\Espresso\obj\Debug\net5.0\Espresso.AssemblyInfoInputs.cache
+C:\Users\vaibh\source\repos\Espresso\Espresso\obj\Debug\net5.0\Espresso.AssemblyInfo.cs
+C:\Users\vaibh\source\repos\Espresso\Espresso\obj\Debug\net5.0\Espresso.csproj.CoreCompileInputs.cache
